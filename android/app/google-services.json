@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772773391423",
+    "project_id": "chrono-bfa37",
+    "storage_bucket": "chrono-bfa37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772773391423:android:5f21abe2772bf4fa7f1c8a",
+        "android_client_info": {
+          "package_name": "com.example.chrono"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oG2rWzOLx-rwkZ472vkZUrQsqwpF6co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
